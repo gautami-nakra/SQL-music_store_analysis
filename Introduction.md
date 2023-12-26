@@ -1,4 +1,4 @@
-# SQL-music_store_analysis
+# Music Store Analysis- MySQL & Power Bi
 
 # INTRODUCTION
 In this innovative project, we harness the power of **MySQL** and **Power BI** to conduct a comprehensive analysis of a music record store dataset, aiming to uncover valuable insights and address key business questions. Our exploration dives deep into an intricately designed database schema, consisting of 11 tables that intricately capture various facets of the music industry.
