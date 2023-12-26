@@ -1,11 +1,9 @@
 # SQL-music_store_analysis
 
 # INTRODUCTION
-In this project, we use MySQL to analyse the data to answer few business questions from a music record store dataset to better understand the data available.
+In this innovative project, we harness the power of **MySQL** and **Power BI** to conduct a comprehensive analysis of a music record store dataset, aiming to uncover valuable insights and address key business questions. Our exploration dives deep into an intricately designed database schema, consisting of 11 tables that intricately capture various facets of the music industry.
 
-The database schema is as follows:
-
-The dataset includes 11 tables:
+The dataset includes the following tables:
 
 •	**employee** table stores employees data such as employee id, last name, first name, etc. 
 
@@ -42,3 +40,5 @@ Each table is linked to some other table and the relationship within the tables 
  
 The lines depict the link between the tables.
 ![image](https://github.com/gautami-nakra/SQL-music_store_analysis/assets/148481510/6a7ca489-b3f8-4a26-9852-ff3eb69b8000)
+
+
